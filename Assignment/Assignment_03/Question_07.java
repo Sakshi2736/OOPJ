@@ -1,3 +1,7 @@
+/*. Rotate an Array
+○ Rotate the array to the right by k positions.*/
+
+
 public class Question_07 {
     public static void main(String[] args) {
         int[] numbers = {11, 22, 33, 44, 55}; // Example array
