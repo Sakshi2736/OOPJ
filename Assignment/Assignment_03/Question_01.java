@@ -1,3 +1,8 @@
+/*Find the Largest and Smallest Element
+○ Given an array, find the smallest and largest elements in it.*/
+
+
+
 class Question_01{
     public static void main(String[] args) {
         int[] numbers = {10, 5, 20, 8, 2, 30, 25}; // Example array
