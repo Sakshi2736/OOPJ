@@ -1,5 +1,8 @@
-/*12.Find Missing Number in an Array
-○ Given an array of size n-1 containing numbers from 1 to n, find the missing number*/
+/*. Write a program to accept 20 integer numbers in a single Dimensional Array. Find and
+Display the following:
+○ Number of even numbers.
+○ Number of odd numbers.
+○ Number of multiples of 3*/
 
 
 
