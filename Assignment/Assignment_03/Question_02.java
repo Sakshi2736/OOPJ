@@ -1,4 +1,5 @@
-//
+/*  Reverse an Array
+   ○ Reverse the given array in place.*/
 
 class Question_02 {
         public static void main(String[] args) {
