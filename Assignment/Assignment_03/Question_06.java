@@ -1,3 +1,7 @@
+/*Remove Duplicates from a Sorted Array
+○ Remove duplicate elements from a sorted array without using extra space*/
+
+
 public class Question_06{
     public static void main(String[] args) {
         int[] numbers = {1, 1, 2, 2, 3, 4, 4, 5}; // Sorted array with duplicates
