@@ -1,5 +1,5 @@
-/*10.Find Intersection and Union of Two Arrays
-   ○ Find the intersection and union of two unsorted arrays.*/
+/*Find Missing Number in an Array
+○ Given an array of size n-1 containing numbers from 1 to n, find the missing number.*/
 
 
 public class Question_09 {
