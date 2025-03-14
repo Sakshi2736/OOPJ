@@ -1,3 +1,7 @@
+/*. Find the Second Largest Element
+○ Find the second-largest element in the given array */
+
+
 class Question_03 {
     public static void main(String[] args) {
         int[] numbers = {10, 5, 20, 8, 2, 30, 25}; // Example array
