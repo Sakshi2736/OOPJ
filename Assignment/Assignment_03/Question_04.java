@@ -1,3 +1,7 @@
+/* Count Even and Odd Numbers
+   ○ Count the number of even and odd numbers in an array*/
+
+
 class Question_04{
     public static void main(String[] args) {
         int[] numbers = {10, 5, 20, 8, 3, 7, 2}; // Example array
